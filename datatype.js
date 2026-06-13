@@ -35,3 +35,18 @@ console.log(d)
 var e= Symbol ("symbol")
 console.log(e)
 
+console.log("non-premetive")
+//non primitive datatype
+//array
+var arr= [1,2,3,4,5]
+console.log (arr)
+
+
+//object
+var person = {
+    Name:"jasmin",
+    age:18,
+    
+}
+
+console.log(person)
