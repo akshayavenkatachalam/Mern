@@ -1,12 +1,14 @@
-function favourite (1,2,3,4){
-    var 1= "Dhruv Vikram"
-    var 2= "Sachin"
-    var 3= "Lakshmi"
+function favourite (a,b,c,){
+    var factor= "Dhruv Vikram"
+    var fpalyer= "Sachin"
+    var fmovie= "Joe"
     
-    console.log("Fav Actor")
-    console.log("Fav Player")
-    console.log("Fav movie")
+    console.log("favoutite actor"      + factor)
+    console.log("favourite Player"     + fpalyer)
+    console.log("favourite movie"      + fmovie)
 }
+
+ favourite ()
     
 
     
